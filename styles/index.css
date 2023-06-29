@@ -1,0 +1,70 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ref {
+  text-decoration: none;
+}
+
+#main {
+  margin: auto;
+  border: solid 5px;
+  border-color: black;
+  width: 300px;
+  text-align: center;
+}
+
+#brownies {
+  background: rgb(96, 45, 3);
+  background: linear-gradient(
+    0deg,
+    rgba(96, 45, 3, 1) 0%,
+    rgba(48, 34, 2, 1) 100%
+  );
+  border: solid 5px;
+  border-color: black;
+  text-align: center;
+  width: 650px;
+  margin: auto;
+  color: white;
+}
+
+#a_brownies {
+  color: white;
+}
+
+#a_main {
+  text-decoration: none;
+}
+
+#mocktail {
+  background: rgb(227, 3, 12);
+  background: linear-gradient(
+    90deg,
+    rgba(227, 3, 12, 0.5074404761904762) 0%,
+    rgba(255, 111, 0, 1) 100%
+  );
+  border: solid 5px;
+  border-color: black;
+  text-align: center;
+  width: 650px;
+  margin: auto;
+}
+
+#cookies {
+  background: rgb(82, 44, 8);
+  background: linear-gradient(
+    90deg,
+    rgba(82, 44, 8, 1) 0%,
+    rgba(185, 138, 83, 1) 50%
+  );
+  border: solid 5px;
+  border-color: black;
+  text-align: center;
+  width: 650px;
+  margin: auto;
+}
+
+img {
+  border-radius: 40px;
+}
